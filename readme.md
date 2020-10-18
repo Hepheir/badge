@@ -13,8 +13,8 @@ SVG/PNG 형태의 배지를 보관하는 레포지토리 입니다.
 
 마크다운:
 ```markdown
-![](https://hepheir.github.io/badge/svg/acmicpc.net/1013.svg)
-![](https://hepheir.github.io/badge/svg/solved.ac/s1.svg)
+![](https://hepheir.github.io/badge-collection/svg/acmicpc.net/1013.svg)
+![](https://hepheir.github.io/badge-collection/svg/solved.ac/s1.svg)
 ```
 
 ---
