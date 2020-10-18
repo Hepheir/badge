@@ -1,9 +1,9 @@
-from . import CACHED_COLOR_LOWER
+from . import CACHED_COLOR
 
 from ...shields.io import makeurl
 
 def from_cache(name, link, style='flat-square', logoColorWhite=True):
-    color = CACHED_COLOR_LOWER[name]
+    color = CACHED_COLOR[name]
     options = [('style', style),
                ('labelColor', color),
                ('logo', name),
