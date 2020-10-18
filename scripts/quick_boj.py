@@ -1,4 +1,4 @@
-from python.download import save_at
+from python.core.download import save_at
 
 from python.acmicpc.net import problem
 
