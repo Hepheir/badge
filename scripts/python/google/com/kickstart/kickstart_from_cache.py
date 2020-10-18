@@ -1,6 +1,6 @@
 from . import LOGO, CACHED_KICKSTART_ROUND_ID
 
-from ...shields.io import makeurl
+from ....shields.io import makeurl
 
 def kickstart_from_cache(round_title:str):
     round_id = CACHED_KICKSTART_ROUND_ID[round_title]
