@@ -1,4 +1,4 @@
-ARCHIVE = 'svg/simpleicons.org/'
+ARCHIVE = 'simpleicons.org/'
 
 BASE_URL = 'https://simpleicons.org/'
 

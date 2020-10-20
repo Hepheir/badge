@@ -1,4 +1,4 @@
-ARCHIVE = 'svg/github.com'
+ARCHIVE = 'github.com'
 
 from .user import user
 from .repository import repository
